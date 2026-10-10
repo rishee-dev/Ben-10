@@ -77,7 +77,7 @@ Ben-10/
 Clone repository
 
 ```bash
-git clone https://github.com/rishee01/Ben-10.git
+git clone https://github.com/rishee-dev/Ben-10.git
 ```
 
 Move into project
